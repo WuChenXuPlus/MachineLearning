@@ -4,9 +4,6 @@
 在train_CNN_olivettifaces.py中我们训练好并保存了模型的参数，利用这些保存下来的参数来初始化CNN模型，
 这样就得到一个可以使用的CNN系统，将人脸图输入这个CNN系统，预测人脸图的类别。
 
-@author:wepon(http://2hwp.com)
-讲解这份代码的文章：http://blog.csdn.net/u012162613/article/details/43277187
-"""
 
 import os
 import sys
